@@ -22,7 +22,8 @@ $application
         $output->writeln('Processing something');
         $total_usage = 'Total application usage';
 
-        render("<div class='bg-indigo-500'> Hello ".$total_usage.'</div>');
+        render("<div class='bg-indigo-500'>Command </div>");
+        render("<p class='text-indigo-500'>".$total_usage."</p>");
 
         return Command::SUCCESS;
     });
