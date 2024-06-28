@@ -1,5 +1,6 @@
 {
     "require": {
-        "symfony/console": "^7.1"
+        "symfony/console": "^7.1",
+        "nunomaduro/termwind": "^2.0"
     }
 }
