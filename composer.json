@@ -1,6 +1,7 @@
 {
     "require": {
         "symfony/console": "^7.1",
-        "nunomaduro/termwind": "^2.0"
+        "nunomaduro/termwind": "^2.0",
+        "illuminate/collections": "^11.14"
     }
 }
